@@ -1,0 +1,27 @@
+# macOS metadata
+.DS_Store
+
+#––– R artifacts –––
+.Rhistory
+.RData
+
+#––– Python artifacts –––
+__pycache__/
+*.py[cod]
+
+# virtual environments
+.venv/
+env/
+
+# dotenv files
+.env
+
+# Jupyter notebooks
+.ipynb_checkpoins/
+
+# macOS metadata
+.DS_Store
+
+#––– Python artifacts –––
+__pycache__/
+*.py[cod]
